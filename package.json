@@ -1,0 +1,14 @@
+{
+  "name": "156b5bf91f810a94",
+  "main": "156b5bf91f810a94@1983.js",
+  "version": "1983.0.0",
+  "homepage": "https://observablehq.com/d/156b5bf91f810a94",
+  "author": {
+    "name": "Caleb Chase",
+    "url": "https://observablehq.com/@calebchase0308"
+  },
+  "type": "module",
+  "peerDependencies": {
+    "@observablehq/runtime": "4 - 5"
+  }
+}
