@@ -1,6 +1,8 @@
 # Raymarching 3D Fractals
 
-https://observablehq.com/d/156b5bf91f810a94@1983
+<img src="https://raw.githubusercontent.com/calebchase/Raymarching-3D-Fractals/7abc355319416a3c73b8a43dd5c421a32018251d/mandelbulb.png" width="600" />
+
+View in browser: https://observablehq.com/d/156b5bf91f810a94@1983
 
 View this notebook in your browser by running a web server in this folder. For
 example:
